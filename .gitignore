@@ -1,0 +1,3 @@
+*.bin
+!raw-hex.bin
+*.log

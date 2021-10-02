@@ -2,5 +2,5 @@ megs: 32
 display_library: sdl
 romimage: file=/usr/share/bochs/BIOS-bochs-latest
 vgaromimage: file=/usr/share/bochs/VGABIOS-lgpl-latest
-floppya: 1_44=raw-hex.bin, status=inserted
+floppya: 1_44=boot.bin, status=inserted
 boot: a
